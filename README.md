@@ -1,4 +1,4 @@
-# gaana-plus
+# Gaana Plus
 Small Extension to convert normal Gaana account to Gaana Plus on all Browsers. 
 
 This extension contains some javascript that lets you play songs on Gaana.com at HD Quality without Ads.
